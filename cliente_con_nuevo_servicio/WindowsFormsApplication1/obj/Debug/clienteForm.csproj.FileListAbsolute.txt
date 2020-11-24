@@ -104,3 +104,11 @@ C:\Users\Usuari\Desktop\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\
 C:\Users\Usuari\Desktop\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Usuari\Desktop\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Usuari\Desktop\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usuari\Desktop\Exercici guia\cliente_con_nuevo_servicio\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
